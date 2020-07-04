@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "/"
 title = "johndoe"
 
 theme = "hugo-coder"
@@ -23,6 +23,7 @@ disqusShortname = "yourdiscussshortname"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
+    ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     dateformat = "January 2, 2006"
 
