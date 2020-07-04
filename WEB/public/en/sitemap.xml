@@ -8,21 +8,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/posts/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -34,6 +19,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
                 />
   </url>
   

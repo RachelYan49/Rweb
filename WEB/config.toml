@@ -1,8 +1,6 @@
 baseurl = "/"
-title = "johndoe"
-
+title = "Ran Yan"
 theme = "hugo-coder"
-
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -16,12 +14,12 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Ran Yan"
+    description = "Ran Yan's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarurl = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
+    info = "Avid Data Learner"
+    avatarurl = "git/RWEB/WEB/RY.jpg"
+    gravatar = "ryan49@esmith.com"
     footercontent = "Enter a text here."
     ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
