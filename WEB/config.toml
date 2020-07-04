@@ -17,12 +17,12 @@ disqusShortname = "yourdiscussshortname"
     author = "Ran Yan"
     description = "Ran Yan's personal website"
     keywords = "blog,developer,personal"
-    info = "Avid Data Learner"
-    avatarurl = ""
-    gravatar = "ryan49@esmith.com"
+    info = "Full Stack DevOps and Magician"
+    avatarurl = "images/RY.jpeg"
+    #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
     ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
- 
+
     dateformat = "January 2, 2006"
 
     hideFooter = false
