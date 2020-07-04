@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     gravatar = "ryan49@esmith.com"
     footercontent = "Enter a text here."
     ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
+ 
     dateformat = "January 2, 2006"
 
     hideFooter = false
